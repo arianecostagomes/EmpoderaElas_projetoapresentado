@@ -1,0 +1,140 @@
+.coluna{
+	/*height: 30px;*/
+	/*background-color: red;*/
+	text-align: center;
+}
+
+.espacamento{
+	padding-top: 5%;
+/*	margin-bottom: 10%;
+*/}
+
+.alinhamento{
+	display: flex;
+}
+
+
+/*.selfie{
+	padding-top: 3%;
+	width: 400px;
+	height: 300px;
+	margin-right: 10%;
+}
+
+.descricao{
+	display: flex;
+	padding-top: 2%;
+	margin-right: 40%;
+	
+
+}*/
+
+
+.card{
+	padding-top: 3%;
+}
+
+nav{
+	box-shadow: 1px 0px 10px black;
+	background-color: #fff;
+}
+
+footer{
+	background-color:#222222;
+    padding: 60px 0px;
+}
+
+footer ul{
+    list-style:none;
+    margin:0 auto;
+    display:inline-block;
+    padding-top:20px;
+}
+
+footer ul li{
+    float:left;
+}
+
+footer ul li a{
+	color:#b1aca1;
+    padding:20px;
+}
+
+footer ul li a:hover{
+	color:#7dabdb;
+	text-decoration:none;
+}
+
+.footer-top{
+	padding-bottom:25px;
+}
+
+.footer-top a{
+    color:#FFF;
+    text-decoration:none;
+}
+
+.footer-top .col-lg-2:hover .fa , .footer-top .col-lg-2:hover a{
+    color:#7dabdb;
+}
+
+.copyright{
+    background-color:#f0f0f0;
+}
+
+.copyright p{
+	font-size:12px;
+	padding:10px 0 5px 0;
+}
+
+.menu{
+	padding-left: 80px;
+	margin-left: 155px;
+}
+
+.redessociais{
+	margin-left: 365px;
+}
+
+@media (min-width: 320px)
+style.css:2189
+.contato{
+    padding-left: 25px;
+img{
+	background-image: 100%;
+}
+
+
+a{
+	font-family: 'Dancing Script', cursive;
+ 	font-style: bold;
+	color: black;
+	font-size: 150%;
+}
+
+h2{
+	font-family: 'Dancing Script', cursive;
+ 	font-style: bold;
+	color: black;
+	font-size: 190%;
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+
+nav{
+	box-shadow: 1px 0px 10px #e83e8c;
+}
+
+img{
+	background-image: 100%;
+}
+
+
+section{
+	padding-top: 5%;
+}	
+
+
+.quemsomos_conteudo{
+	display: flex;
+}
