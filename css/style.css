@@ -36,12 +36,97 @@
 
 nav{
 	box-shadow: 1px 0px 10px black;
-	background-color: #fff;
+	background-color: #D2691E;
+	font-size: 90%;
 }
 
-footer{
-	background-color:#222222;
-    padding: 60px 0px;
+
+a{
+	font-family: 'Dancing Script', cursive;
+ 	font-style: bold;
+	color: black;
+	font-size: 180%;
+}
+
+a.navbar-brand{
+	font-size: 180%;
+	padding-left: 20px;
+}
+
+
+h2{
+	font-family: 'Dancing Script', cursive;
+ 	font-style: bold;
+	color: black;
+	font-size: 180%;
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+
+
+section{
+	padding-top: 2%;
+}	
+
+
+section h2{
+	margin-bottom: 2%;
+}
+
+
+.quemsomos_conteudo{
+	display: flex;
+}
+
+
+.agenda_conteudo{
+	display: flex;
+}
+
+
+.footer{
+	padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: #DB7093;
+}
+
+.footer-titulo .col-lg-2:hover .fa , .footer-top .col-lg-2:hover a{
+    color:#7dabdb;
+}
+
+.centerblock{
+	display: block;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.footer-titulo {
+    font-size: 15px;
+    font-weight: bold;
+    color: #ffffff;
+    padding: 20px 0;
+    text-transform: uppercase;
+
+@media (min-width: 200px)
+style.css:2189
+.contato{
+    padding-left: 25px;
+img{
+	background-image: 100%;
+}
+
+
+.footer-título{
+	height: 1px;
+ 	background-color: #333;
+  	text-align: center;
+}
+
+.footer-título span{
+	background-color: white;
+  position: relative;
+  top: -0.5em;
+  padding: 0 10px;
 }
 
 footer ul{
@@ -55,86 +140,18 @@ footer ul li{
     float:left;
 }
 
-footer ul li a{
-	color:#b1aca1;
-    padding:20px;
-}
 
-footer ul li a:hover{
-	color:#7dabdb;
-	text-decoration:none;
-}
-
-.footer-top{
-	padding-bottom:25px;
-}
-
-.footer-top a{
-    color:#FFF;
-    text-decoration:none;
-}
-
-.footer-top .col-lg-2:hover .fa , .footer-top .col-lg-2:hover a{
-    color:#7dabdb;
-}
-
-.copyright{
-    background-color:#f0f0f0;
-}
-
-.copyright p{
-	font-size:12px;
-	padding:10px 0 5px 0;
-}
-
-.menu{
-	padding-left: 80px;
-	margin-left: 155px;
-}
-
-.redessociais{
-	margin-left: 365px;
-}
-
-@media (min-width: 320px)
-style.css:2189
-.contato{
-    padding-left: 25px;
-img{
-	background-image: 100%;
-}
-
-
-a{
-	font-family: 'Dancing Script', cursive;
- 	font-style: bold;
-	color: black;
-	font-size: 150%;
-}
-
-h2{
-	font-family: 'Dancing Script', cursive;
- 	font-style: bold;
-	color: black;
-	font-size: 190%;
-	padding-top: 20px;
-	padding-bottom: 20px;
-}
-
-nav{
-	box-shadow: 1px 0px 10px #e83e8c;
-}
-
-img{
-	background-image: 100%;
-}
-
-
-section{
-	padding-top: 5%;
-}	
 
 
 .quemsomos_conteudo{
 	display: flex;
 }
+
+
+.agenda_conteudo{
+	display: flex;
+}
+
+
+
+
